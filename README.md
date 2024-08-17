@@ -6,3 +6,4 @@
 - `docker-compose stop` // To stop our running container
 - `docker-compose start` // To start our stopped container
 - `docker-compose down` // To delete our container
+- `docker exec -ti container-name bash` // To open containers terminal
