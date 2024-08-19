@@ -7,3 +7,4 @@
 - `docker-compose start` // To start our stopped container
 - `docker-compose down` // To delete our container
 - `docker exec -ti container-name bash` // To open containers terminal
+- `docker logs -f <container_id>` // To see container logs
